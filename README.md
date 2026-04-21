@@ -24,15 +24,16 @@ HR reports.
 ***
 
 ## Power BI Dashboard
+![Dashboard Overview](powerbi/HR_audit_dashboard.pdf)
 Four visuals with a status slicer that filters all visuals simultaneously:
  
 - **Summary cards** — Total Employees, Attendance Rate, Total Absent Days, Punch Anomalies
 - **Attendance rate bar chart** — all 29 employees color coded green/orange/red by threshold
 - **Punch integrity donut chart** — breakdown of all 6 punch flag categories
 - **Late arrival heatmap matrix** — 29 employees × 31 days with color coded lateness severity
-![Dashboard Overview]()
 
 ## Excel Audit Workbook
+![Excel Workbook Overview](data/hr_audit_excel.png)
 The `HR_Audit_Report.xlsx` workbook contains 6 sheets:
  
 | Sheet | Contents |
