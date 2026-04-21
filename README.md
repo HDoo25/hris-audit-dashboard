@@ -24,7 +24,7 @@ HR reports.
 ***
 
 ## Power BI Dashboard
-![Dashboard Overview](powerbi/HR_audit_dashboard.pdf)
+![Dashboard Overview](powerbi/hr_audit_powerbi.png)
 Four visuals with a status slicer that filters all visuals simultaneously:
  
 - **Summary cards** — Total Employees, Attendance Rate, Total Absent Days, Punch Anomalies
