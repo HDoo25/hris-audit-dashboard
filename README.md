@@ -1,4 +1,4 @@
-# hris-audit-dashboard
+# HRIS Audit Dashboard
 End-to-end HR analytics project simulating real-world biometric punch data auditing, attendance compliance reporting, and
 payroll anomaly detection for a 29-employee development center — built to mirror the daily workflows of an HRIS analyst role.
 
