@@ -59,21 +59,25 @@ conditional formatting
 - 3 employees — Jiya, Krishna, Myra — recorded 0% attendance, absent all 26 working days
 - 7 employees flagged Critical requiring immediate HR review
 - Aarav attended only 1 day out of 31 (3.8% attendance rate)
+  
 **Lateness**
 - 76% of present days had at least one late arrival
 - Meera was late on 21 of 21 present days — 100% late rate
 - Rudra's single worst lateness: 289 minutes (nearly 5 hours)
 - Samar averaged 63 minutes late per late day
 - Advait accumulated 19 total late days with 4 classified as Severe
+  
 **Overtime**
 - Dev accumulated 56.38 overtime hours in March — equivalent to 7 extra full workdays
 - Top 6 overtime employees each exceeded 48 overtime hours in a single month
 - Vihaan and Riya showed suspiciously high per-day overtime averages (9+ hours) flagged for review
+   
 **Punch Integrity**
 - Only 30.1% of all 899 records were clean punch sequences
 - 204 records flagged for door malfunction — hardware maintenance recommended
 - 27 records required manual HR intervention (missing exit, missing entry, multiple issues)
 - 44.2% of records had no punch data — expected for absent and weekly off days
+  
 **HR Action Summary**
 - Critical — immediate review: 7 employees
 - High — manager follow-up: 2 employees
